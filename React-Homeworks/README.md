@@ -1,2 +1,2 @@
-# React-Domasni
-React Homework
+# React-Semos JS academy
+React Homeworks
