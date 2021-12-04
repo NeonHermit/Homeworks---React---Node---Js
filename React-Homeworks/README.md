@@ -1,2 +1,2 @@
-# React-Semos JS academy
+# React -- Semos JS academy
 React Homeworks
