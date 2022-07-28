@@ -12,7 +12,7 @@ const kolegium = [
         hobi: 'sostanocinja',
     },
     {
-        ime: 'Direktorce',
+        ime: 'Bapco',
         zanimanje: 'dzudze',
         hobi: 'aj ako ne te mrzi',
     },
