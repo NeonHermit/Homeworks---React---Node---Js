@@ -13,8 +13,8 @@ const kolegium = [
     },
     {
         ime: 'Bapco',
-        zanimanje: 'dzudze',
-        hobi: 'aj ako ne te mrzi',
+        zanimanje: 'drekavac',
+        hobi: 'nema',
     },
     {
         ime: 'Gazdice',
